@@ -1,16 +1,24 @@
 # news
 
-A new Flutter project.
+News App By flutter
 
-## Getting Started
+## Tools
 
-This project is a starting point for a Flutter application.
+State Mangegment (provider)
+Shared Prefrences
+WebView Flutter
+MVC
 
-A few resources to get you started if this is your first Flutter project:
+# Features
+Connecting With Database
+Retrieve Data From Database
+Interacting With JSON API
+All Currencies EXchange
+Know Your Current Weather And Prediction
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screen Shots
+![f2](https://github.com/Abdelrahmanyehia9/news/assets/136289803/28368271-c818-4922-acfe-1652f7e8bfa2)
+![f3](https://github.com/Abdelrahmanyehia9/news/assets/136289803/da0a586f-147c-4a18-af1c-2ba225b079f8)
+![f1](https://github.com/Abdelrahmanyehia9/news/assets/136289803/8912a69b-8a94-424d-9380-f414a62d9db1)
+![1](https://github.com/Abdelrahmanyehia9/news/assets/136289803/8659931c-45d9-4249-85ca-4e7333f53d6b)
