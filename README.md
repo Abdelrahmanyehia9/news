@@ -11,9 +11,13 @@ MVC
 
 # Features
 Connecting With Database
+
 Retrieve Data From Database
+
 Interacting With JSON API
+
 All Currencies EXchange
+
 Know Your Current Weather And Prediction
 
 
